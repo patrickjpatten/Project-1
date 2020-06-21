@@ -1,2 +1,2 @@
-api_key = "5peku4kwe7ca44nnuh3ttncp"
-rapid_key="6f2083596cmsh52277f5231a99bap1ea14cjsn00f0f1b3501f"
+apikey = "5peku4kwe7ca44nnuh3ttncp"
+
